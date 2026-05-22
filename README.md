@@ -40,13 +40,10 @@ PlantVillage Dataset
 AgriVision-CropDiseaseDetection/
 │
 ├── notebooks/
-│   ├── week1_eda_preprocessing.ipynb
-│   └── week2_custom_cnn.ipynb
+│   └── crop_disease_detection_complete.ipynb
 │
-├── models/
-├── dataset/
-├── images/
-└── README.md
+├── README.md
+└── models/
 
 
 # Week 1 Completed
@@ -63,7 +60,7 @@ AgriVision-CropDiseaseDetection/
 - Data Augmentation
 
 
-# Week 2 (In Progress)
+# Week 2 (Completed)
 
 - Custom CNN Model
 - Conv2D Layers
@@ -71,6 +68,13 @@ AgriVision-CropDiseaseDetection/
 - Dropout
 - EarlyStopping
 - Model Training
+
+# Model Performance
+
+- Training Accuracy: 82%
+- Validation Accuracy: 87%
+- Test Accuracy: 86.43%
+- Test Loss: 0.3834
 
 
 
