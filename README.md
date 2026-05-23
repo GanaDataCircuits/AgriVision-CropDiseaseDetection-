@@ -60,22 +60,36 @@ AgriVision-CropDiseaseDetection/
 - Data Augmentation
 
 
-# Week 2 (Completed)
+# Week 2 — Custom CNN Model Training
 
-- Custom CNN Model
-- Conv2D Layers
-- MaxPooling Layers
-- Dropout
-- EarlyStopping
-- Model Training
+## Tasks Completed
+- Applied Label Encoding and One-Hot Encoding
+- Built Custom CNN Architecture
+- Added Conv2D and MaxPooling Layers
+- Added Dense and Dropout Layers
+- Compiled CNN Model using Adam Optimizer
+- Implemented EarlyStopping
+- Trained CNN Model on PlantVillage Dataset
+- Generated Accuracy and Loss Graphs
+- Evaluated Model Performance
+- Saved Trained CNN Model
 
-# Model Performance
+## Technologies Used
+- TensorFlow
+- Keras
+- CNN
+- Deep Learning
+- Image Classification
 
+## Model Performance
 - Training Accuracy: 82%
 - Validation Accuracy: 87%
 - Test Accuracy: 86.43%
 - Test Loss: 0.3834
 
+## Output
+- Successfully classified crop diseases using a custom CNN model
+- Achieved strong performance on unseen test data
 
 
 # Future Improvements
