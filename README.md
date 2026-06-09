@@ -46,59 +46,30 @@ AgriVision-CropDiseaseDetection/
 └── models/
 
 
-# Week 1 Completed
+# Week 1 — Data Acquisition and Exploratory Data Analysis
 
 ## Tasks Completed
-- Dataset Collection
-- Dataset Extraction
-- Image EDA
-- Class Distribution Analysis
-- Image Preprocessing
-- Image Resizing
-- Image Normalization
-- Train Validation Test Split
-- Data Augmentation
 
-
-# Week 2 — Custom CNN Model Training
-
-## Tasks Completed
-- Applied Label Encoding and One-Hot Encoding
-- Built Custom CNN Architecture
-- Added Conv2D and MaxPooling Layers
-- Added Dense and Dropout Layers
-- Compiled CNN Model using Adam Optimizer
-- Implemented EarlyStopping
-- Trained CNN Model on PlantVillage Dataset
-- Generated Accuracy and Loss Graphs
-- Evaluated Model Performance
-- Saved Trained CNN Model
+- Uploaded and extracted PlantVillage dataset
+- Performed disease class exploration
+- Visualized sample images from multiple disease categories
+- Analyzed disease distribution
+- Generated dataset statistics
+- Examined image dimensions and quality
+- Compared healthy and diseased leaf samples
 
 ## Technologies Used
-- TensorFlow
-- Keras
-- CNN
-- Deep Learning
-- Image Classification
 
-## Model Performance
-- Training Accuracy: 82%
-- Validation Accuracy: 87%
-- Test Accuracy: 86.43%
-- Test Loss: 0.3834
+- Python
+- OpenCV
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
 
-## Output
-- Successfully classified crop diseases using a custom CNN model
-- Achieved strong performance on unseen test data
+## Outcome
 
-
-# Future Improvements
-
-- Transfer Learning using MobileNet/ResNet
-- Real-time disease prediction
-- Streamlit web application deployment
-- Mobile application integration
-
+Successfully explored and analyzed the PlantVillage dataset, gaining insights into disease categories, image characteristics, and class distributions before model development.
 
 # Author
 
