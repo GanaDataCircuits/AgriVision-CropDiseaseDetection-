@@ -71,6 +71,32 @@ AgriVision-CropDiseaseDetection/
 
 Successfully explored and analyzed the PlantVillage dataset, gaining insights into disease categories, image characteristics, and class distributions before model development.
 
+# Week 2 Completed
+
+## Tasks Completed
+- Applied Label Encoding and One-Hot Encoding
+- Performed Train Validation Test Split
+- Applied Data Augmentation
+- Built Custom CNN Architecture
+- Added Batch Normalization and Dropout Layers
+- Implemented Early Stopping and Model Checkpointing
+- Trained CNN Model
+- Generated Accuracy and Loss Graphs
+- Evaluated Model Performance
+- Generated Classification Report
+- Generated Confusion Matrix
+- Saved Trained CNN Model
+
+## Technologies Used
+- TensorFlow
+- Keras
+- CNN
+- Deep Learning
+- Image Classification
+
+## Output
+Successfully trained and evaluated a CNN model for crop disease classification and prepared the model for deployment.
+
 # Author
 
 Gana Shree C V
